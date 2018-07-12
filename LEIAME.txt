@@ -1,0 +1,9 @@
+Para testar/utilizar o projeto é necessário:
+
+1. Criar a base de dados em um servidor mysql (script esta no siretorio utilitarios)
+2. Enviar os arquivos do projeto para um servidor web(recomendo a criacao de um diretorio para o projeto)
+3. Configurar o arquivo [config.php] com os dados para o projeto funcionar.
+4. Executar o projeto no browser ex: http://localhost/projeto
+5. O banco de dados esta vazio, sera necessario realizar alguns cadastros para testar o sistema
+
+ 
